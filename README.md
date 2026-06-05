@@ -10,7 +10,7 @@ Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
 tap "michix/tap"
-brew "<formula>"
+brew "seekret-service"
 ```
 
 ## Documentation
