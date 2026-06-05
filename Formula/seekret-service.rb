@@ -4,8 +4,8 @@
 class SeekretService < Formula
   desc "A demon for comfortably access to KeePass secrets while maintaining a high level of security"
   homepage "https://github.com/michix/seekret-service"
-  url "https://github.com/michix/seekret-service/archive/refs/tags/v1.4.0.tar.gz"
-  sha256 "d9f294a929262992886c57be2d212d65fe0989edd54ccf75dfd8007d942564e5"
+  url "https://github.com/michix/seekret-service/archive/refs/tags/v1.4.1.tar.gz"
+  sha256 "575b49929707fec0098cea6306e4c056364624f6b2c13d7031294c1f06c9e147"
   license "GPL-3.0"
 
   depends_on "rust" => :build
